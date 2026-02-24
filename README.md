@@ -1,2 +1,2 @@
 # learning-powershell
-Scripting PowerShell
+Scripting PowerShell examples.
